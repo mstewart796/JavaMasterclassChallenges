@@ -1,0 +1,1 @@
+This is a collection of challenges completed during my Java Masterclass course with Tim Buchalka
